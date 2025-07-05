@@ -10,7 +10,10 @@ I am Jeremy (Arts), I am a back-end developer and IT Specialist from Florida, US
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=itsarts1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=itsarts1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsarts1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsarts1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+  <a href="https://wakatime.com/@Arts">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arts&layout=compact&custom_title=Weekly%20Development%20Breakdown&hide_border=true&icon_color=fff&bg_color=151515&title_color=fff&text_color=fff" />
+  </a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)

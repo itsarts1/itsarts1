@@ -3,7 +3,7 @@ I am Jeremy (Arts), I am a back-end developer and IT Specialist from Florida, US
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Ak2v9bWQgc) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jeremy.farnell1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeremy-farnell1) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/its-arts) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30970603) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@itsarts1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/itsarts1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@its-arts1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeremy.farnell@icloud.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Ak2v9bWQgc) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jeremy.farnell1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeremy-farnell1) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/its-arts) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30970603) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@itsarts1) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/itsarts1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@its-arts1) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeremy.farnell@icloud.com) 
 
 # 💻 Tech Stack:
 ### 🖥️ Programming Languages
@@ -80,13 +80,22 @@ I am Jeremy (Arts), I am a back-end developer and IT Specialist from Florida, US
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Dell](https://img.shields.io/badge/-Dell-0A47B1?style=for-the-badge&logo=dell&logoColor=white)
 
+<div align="center">
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itsarts1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=itsarts1&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsarts1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+
+
+  ![](https://github-readme-stats.vercel.app/api?username=itsarts1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  
+  ![](https://nirzak-streak-stats.vercel.app/?user=itsarts1&theme=tokyonight&hide_border=false)<br/>
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsarts1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+  
   <a href="https://wakatime.com/@Arts">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arts&layout=compact&custom_title=Weekly%20Development%20Breakdown&hide_border=false&icon_color=fff&bg_color=1A1B27&title_color=70A5FD&text_color=38BDAE" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arts&layout=compact&custom_title=Weekly%20Development%20Breakdown&hide_border=false&icon_color=fff&bg_color=1A1B27&title_color=70A5FD&text_color=38BDAE" />
   </a>
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -94,7 +103,6 @@ I am Jeremy (Arts), I am a back-end developer and IT Specialist from Florida, US
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=itsarts1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=itsarts1&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
 

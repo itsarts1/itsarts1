@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Jeremy (Arts), I am a back-end developer and IT Specialist from Florida, USA. 
+### I am Jeremy (Arts), I am a back-end developer and IT Specialist from Florida, USA. 
 
 
 ## 🌐 Socials:

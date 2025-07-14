@@ -73,8 +73,10 @@ I am Jeremy (Arts), I am a back-end developer and IT Specialist from Florida, US
 ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
 ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)
 ### 🔌 Vendors / Hardware / Networking
+![Ubiquiti](https://img.shields.io/badge/-Ubiquiti-055DFA?style=for-the-badge&logo=ubiquiti&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
+![Intel](https://img.shields.io/badge/-Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Dell](https://img.shields.io/badge/-Dell-0A47B1?style=for-the-badge&logo=dell&logoColor=white)
 
